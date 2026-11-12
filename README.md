@@ -55,9 +55,9 @@ Hi, I'm **Enjal**. I build software and I'm always picking up something new.
 ## 📫 Let's connect
 
 <!-- Replace the placeholders, delete any you don't use. -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enjal-bk-b84069338)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](enjalbk@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-phi-beige-85er5xdyxz.vercel.app/)
 
 <div align="center">
 
